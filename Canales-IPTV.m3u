@@ -1,0 +1,111 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="Noticias", Meganoticias
+https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg" group-title="Noticias", T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png" group-title="Noticias", CNN Chile
+https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Noticias", CHV Noticias
+https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/La_Red_Logotipo_2021.svg" group-title="Noticias", La Red
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisión_(2018).png" group-title="Noticias", UCV TV
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-BbCIUKB7XJE/XbRLHyJVKcI/AAAAAAAArtU/ipNQiS3rttYIRuK2nKzy_oocBx0x4TOLACK8BGAsYHg/s0/2019-10-26.png", TVN 24 Horas
+https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_2021_logo.svg" group-title="Deportes", TNT Sports
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8959#checkedby:iptvlister.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes", ESPN
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295637
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logotipo_de_Televisiòn_Nacional_de_Chile_%282004-2016%29.svg" group-title="Noticias", TVN HD
+http://tv14s.xyz:8080/753468/894568/164888
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="Deportes", DirecTV Sports
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290379
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="Deportes", DirecTV Sports 2
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290380
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="Deportes", CDO Premium
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8963
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logotipo_de_Rec_TV.png" group-title="Noticias", Rec TV
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8975
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Peliculas", FX
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/295243
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Fox_sports_3_logo.svg" group-title="Deportes", FOX Sports 3
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/189906
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Otros", Discovery Channel
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/2548
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Warner_Bros._Pictures#/media/Archivo:Warner_Bros._Pictures_2023_(Alt).svg" group-title="Peliculas", Warnerbros
+http://628102028954321442.ofd0208.xyz:80/play/hu1225340/YFKV9rbvXSy/321442.ts
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/HBO_Mundi#/media/Archivo:HBO_Mundi.svg" group-title="Peliculas", HBO mundi
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/49702
+#EXTINF:-1 tvg-logo="https://image.similarpng.com/very-thumbnail/2020/06/Logo-national-geographic-transparent-background-PNG.png" group-title="Otros", NAT GEO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/6737
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" group-title="Peliculas", AMC
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/49750
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Discovery_Civilization_logo.svg" group-title="Otros", Discovery Civilization
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51410
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="Peliculas", TNT Series
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51378
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" group-title="Otros", NAT GEO Wild
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/172601
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Peliculas", Cinecanal 
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/290335
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/TLC_Logo.svg" group-title="Peliculas", Discovery TLC
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51405
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/history-logo-4EA08324CE-seeklogo.com.png" group-title="Otros", History
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51365
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Peliculas", TCM
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51434
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Universal-Pictures-Logo.svg" group-title="Peliculas", Universal Studio
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/28034
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="Peliculas", Cinemax
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51417
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" group-title="Peliculas", Space
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/61027
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/13C_%28canal_de_televisión%29#/media/Archivo:13C_2018.png" group-title="Peliculas", 13C
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/8956
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Golden_Edge_Logo.png" group-title="Peliculas", Golden Edge
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51367
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es" group-title="Peliculas", Golden Plus
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/51366
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" group-title="Peliculas", AXN
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27972
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Paramount_Pictures_Corporation_logo.svg" group-title="Peliculas", Paramount
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/49686
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Peliculas", HBO
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/49705
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="Peliculas", A&E
+http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/49751
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="Noticias", HBO Xtreme
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/172272
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Discovery_H%26H_Logo_2022.webp" group-title="Otros", Discovery H&H 
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/172589
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/2015_Discovery_theater_HD_logo.svg" group-title="Peliculas", Discovery Theater
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/172605
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Peliculas", Sony
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" group-title="Peliculas", Discovery Channel 2
+http://cord-cutter.net:8080/X5xRz0/944877/57625
+#EXTINF:-1 tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-channel-4.svg" group-title="Peliculas", Discovery Channel 3
+https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/27987
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/HBO_Family#/media/Archivo:HBO_Family.svg" group-title="Peliculas", HBO Family
+http://204.157.251.250:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Discovery_Science#/media/Archivo:Discovery_Science_2017_Logo.svg" group-title="Otros", Discovery Science
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3021
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="Deportes", Fox Sports Premium
+http://pro.xviptv.com:25443/live/6544474156/SUPFWW4VLR/67500.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Peliculas", Star Channel
+http://204.157.251.250:8000/play/a07s/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
