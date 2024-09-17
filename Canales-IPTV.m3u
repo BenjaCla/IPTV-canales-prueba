@@ -96,6 +96,16 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/3021
 http://pro.xviptv.com:25443/live/6544474156/SUPFWW4VLR/67500.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="Peliculas", Star Channel
 http://204.157.251.250:8000/play/a07s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Noticias", CHV 
+http://tv14s.xyz:8080/753468/894568/164884
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png" group-title="Noticias", CHV 2
+http://fortv.cc:8080/5ybSS2/616430/164884
+
+
+
+
+
+
 
 
 
